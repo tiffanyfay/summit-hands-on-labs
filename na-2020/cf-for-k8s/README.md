@@ -26,7 +26,7 @@ We recommend you increase the size of the cloudshell window to the largest size 
 
 ## Setup Environment
 
-Let's set up your environment by running the following command in your console. 
+Let's set up your environment by running the following command in your console: 
 
    eval "$(./setup-env.sh)"
 
@@ -40,7 +40,7 @@ Let's set up your environment by running the following command in your console.
 
 ### Verify CLIs exists
 
-Running the following command will print versions for each CLI. 
+Running the following command will print versions for each CLI:
 
    cf version
    ytt version
