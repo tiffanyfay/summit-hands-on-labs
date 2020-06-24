@@ -42,12 +42,9 @@ Let's set up your environment by running the following command in your console.
 
 Running the following command will print versions for each CLI. 
 
-```console
-cf version
-ytt version
-kapp version
-
-```
+   cf version
+   ytt version
+   kapp version
 
 ### Verify connection with K8s cluster
 
